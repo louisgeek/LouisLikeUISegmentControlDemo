@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 默认状态 -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item >
-    <shape >
+    <item>
+    <shape>
         <corners android:radius="3dp"/>
         <solid  android:color="#FFFFFF"/>
         <stroke android:color="#129934" android:width="3dp"/>

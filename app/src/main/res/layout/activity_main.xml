@@ -24,4 +24,10 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/id_btn"
         android:text="GET"/>
+
+    <com.louisgeek.likeuisegmentlib.SegmentedControlView
+        android:id="@+id/id_scv_two"
+        android:layout_below="@id/id_btn_get"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </RelativeLayout>
